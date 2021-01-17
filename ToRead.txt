@@ -1,0 +1,5 @@
+Hello everyone,
+
+If you want to use this code in MySql, open the sql file, create a schema named covid_19 and add the csv table 
+as patient.
+
